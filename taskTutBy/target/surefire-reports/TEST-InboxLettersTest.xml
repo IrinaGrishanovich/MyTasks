@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="InboxLettersTest" time="13.238" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="InboxLettersTest" time="13.707" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2016.2.2"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -8,18 +8,18 @@
     <property name="user.country.format" value="US"/>
     <property name="gopherProxySet" value="false"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="/Users/IrinaRomanenkova/Documents/IBA-Training-course/taskTutBy"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/IrinaRomanenkova/Downloads/MyTasks-master 2/taskTutBy"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=":"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
     <property name="file.encoding.pkg" value="sun.io"/>
-    <property name="idea.launcher.port" value="7535"/>
+    <property name="idea.launcher.port" value="7538"/>
     <property name="user.country" value="RU"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="unknown"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/Users/IrinaRomanenkova/Documents/IBA-Training-course/taskTutBy"/>
+    <property name="user.dir" value="/Users/IrinaRomanenkova/Downloads/MyTasks-master 2/taskTutBy"/>
     <property name="java.runtime.version" value="1.8.0_92-b14"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/endorsed"/>
@@ -63,5 +63,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="InboxLettersTest" name="checkInboxLetters" time="13.238"/>
+  <testcase classname="InboxLettersTest" name="checkInboxLetters" time="13.707"/>
 </testsuite>
